@@ -29,7 +29,7 @@ I am a Full Stack Developer Java - Angular  <img src="https://media.giphy.com/me
 ### :fire: My Stats :
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak21-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
 
 
 ![Snake animation](https://github.com/Abdelhak21-elgo/Abdelhak21-elgo/blob/output/github-contribution-grid-snake.svg)
@@ -47,7 +47,6 @@ I am a Full Stack Developer Java - Angular  <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" alt="Angularjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
