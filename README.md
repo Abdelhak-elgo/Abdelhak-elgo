@@ -29,10 +29,10 @@ I am a Full Stack Developer Java - Angular  <img src="https://media.giphy.com/me
 ### :fire: My Stats :
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
 
 
-![Snake animation](https://github.com/Abdelhak21-elgo/Abdelhak21-elgo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Abdelhak-elgo/Abdelhak-elgo/blob/output/github-contribution-grid-snake.svg)
 
 
 
