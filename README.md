@@ -1,54 +1,41 @@
-<h1 align="center">  hey there welcom to my Profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1> 
+<h1 align="center">Hi, I'm Abdelhak El Gourmat 👋</h1>
+<h3 align="center">Senior Full Stack Developer — Java / Spring Boot & Angular</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelhak-el-gourmat-2675881a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:elgourmatabdelhak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
-  ![header](https://capsule-render.vercel.app/api?height=200&text=Abdelhak%20El%20Gourmat&type=Waving) 
-  
+### 👨‍💻 About me
 
-<div align="center">
-  <img src="https://i.imgur.com/MvMxQ1a.gif" width="900" height="400"/>
-</div>
+Senior Full Stack Developer with 4+ years building and securing enterprise web apps — and connecting them to AI.
 
+- 🔭 Technical lead on a data-quality governance platform deployed across **15+ client solutions**
+- 🔐 I specialize in **application security**: Keycloak, OAuth2/JWT, Spring Security
+- 🤖 I build **MCP (Model Context Protocol) servers** that connect apps to LLMs like Claude — secured and auditable
+- ⚡ High-performance systems: data grids handling **100k+ records**
+- 📬 Open to freelance work — reach me on [LinkedIn](https://www.linkedin.com/in/abdelhak-el-gourmat-2675881a5)
 
+### 🛠️ Tech stack
 
-### :man_technologist: About Me :
+**Backend:** Java 21 · Spring Boot 3 · Spring Security · JPA/Hibernate · REST · Microservices  
+**Frontend:** Angular 19 · TypeScript · RxJS  
+**Security & AI:** Keycloak · OAuth2 · JWT · MCP · LLM integration  
+**DevOps & Data:** Docker · Jenkins · GitLab CI/CD · PostgreSQL · MySQL · MongoDB · Redis
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,docker,postgres,mongodb,redis,git" alt="skills"/>
+</p>
 
-I am a Full Stack Developer Java - Angular  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Marocco.
+### 📊 GitHub stats
 
-- :telescope: I’m working as a Full Stack Developer Java - Angular and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhak-el-gourmat-2675881a5)
-
-
-
-### :fire: My Stats :
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
-
-
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" alt="Angularjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelhak-elgo&show_icons=true&hide_border=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak-elgo&layout=compact&hide_border=true" height="160" alt="top langs"/>
+</p>
